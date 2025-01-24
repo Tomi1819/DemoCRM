@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DemoCRM.iml" filepath="$PROJECT_DIR$/.idea/DemoCRM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crm-app/flowcrm.iml" filepath="$PROJECT_DIR$/crm-app/flowcrm.iml" />
+    </modules>
+  </component>
+</project>
